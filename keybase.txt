@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/samcooler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://samcooler.com
+  * I am samcooler (https://keybase.io/samcooler) on keybase.
+  * I have a public key ASCUztM6hMH1pWUdTAVp3oSG7b-_C7kE9rA2hk8c0aiTTgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012094ced33a84c1f5a5651d4c0569de8486edbfbf0bb904f6b036864f1cd1a8934e0a",
+      "host": "keybase.io",
+      "kid": "012094ced33a84c1f5a5651d4c0569de8486edbfbf0bb904f6b036864f1cd1a8934e0a",
+      "uid": "0b016f7444809f44bf2e1dc7d4fc3219",
+      "username": "samcooler"
+    },
+    "merkle_root": {
+      "ctime": 1591228124,
+      "hash": "09f24c32e113ec679fcf2242ce4846daa8d5ee6713129c1592b97bdad16805ea8bc61b1013b260388910ca6e0e80d915f24443687d3f6a255e1c2f6ed77db55d",
+      "hash_meta": "67af40fd34151bae3621714f1e61fe944df3c2b6c534cd2ca807608a8fa63d43",
+      "seqno": 16516941
+    },
+    "service": {
+      "entropy": "yvkKbHTMmQx77om7t2XgbLzw",
+      "hostname": "samcooler.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591228157,
+  "expire_in": 504576000,
+  "prev": "55d74e648bbd761bffb7e691f04316d56af339bd1adaa5d4b574c499b38ec582",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglM7TOoTB9aVlHUwFad6Ehu2/vwu5BPawNoZPHNGok04Kp3BheWxvYWTESpcCBMQgVddOZIu9dhv/t+aR8EMW1WrzOb0a2qXUtXTEmbOOxYLEIKNF4bZLHINMuoJcwFL3eyXGsbIzX29HRaOZsXCQkzjRAgHCo3NpZ8RADdlx5uo+ipxg7gUGNvA9Mpr6WnSFYTEtLnUdmYcecNhLP9NHB46nDNQ8GGwVpd0xP80kK66pQhBbMLvq1KjXDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOH/P/YldHlciva7q/jZsOqyLVgiKZp04SDII/u/Kyi3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samcooler
+
+==================================================================
